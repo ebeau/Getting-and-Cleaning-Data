@@ -12,13 +12,14 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 The following changes have been made: 
 
-    Merges the training and the test sets to create one data set.
-    Extracts only the measurements on the mean and standard deviation for each measurement. 
-    Uses descriptive activity names to name the activities in the data set
-    Appropriately labels the data set with descriptive variable names. 
-    Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+Merges the training and the test sets to create one data set.
+Extracts only the measurements on the mean and standard deviation for each measurement. 
+Uses descriptive activity names to name the activities in the data set
+Appropriately labels the data set with descriptive variable names. 
+Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 The R script was created using:
+
 platform       x86_64-pc-linux-gnu         
 arch           x86_64                      
 os             linux-gnu                   
